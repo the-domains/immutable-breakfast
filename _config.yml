@@ -12,7 +12,3 @@ color:
     - '#4D4D4D'
     - '#333333'
 name: immutable breakfast
-navigation:
-  - name: Boat!
-    id: 68391cc4-5096-4045-bc86-29e24e1a80e3
-    type: content
