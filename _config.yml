@@ -1,0 +1,14 @@
+layout_spectrum: 0.457315533189103
+typography_spectrum: 0.2600620563607663
+color:
+  brandStrength: 0.9272364885546267
+  lightness: 0.043499294901266694
+  saturation: 0.33561095455661416
+  rhythmicContrast: 0.912536752410233
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: immutable breakfast
